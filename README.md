@@ -21,3 +21,16 @@ Step 3. Make and commit changes
 3. In the editor, make the changes you want
 4. Write a commit message that describes your changes
 5. Click 'Commit changes'
+
+Step 4. Open a Pull Request
+1. Click 'Pull Request' tab then from the Pull Request page, click the green 'New pull request' button
+2. In the Example Comparisons box, select the branch you made to compare with master
+3. Look over your changes and make sure they’re what you want to submit
+4. Click the big green 'Create Pull Request' button.
+5. Give your pull request a title and write a brief description of your changes
+6. Click 'Create pull request'
+
+Step 5. Merge your Pull Request
+1. Click the green 'Merge pull request' button to merge the changes into master
+2. Click 'Confirm merge'
+3. Delete the branch with the 'Delete branch' button in the purple box
